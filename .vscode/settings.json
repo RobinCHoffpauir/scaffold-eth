@@ -31,5 +31,6 @@
    "search.exclude": {
       "**/yarn-error.log": true,
       "**/yarn.lock": true
-   }
+   },
+   "python.pythonPath": "/home/gitpod/.pyenv/versions/3.8.12/bin/python"
 }
